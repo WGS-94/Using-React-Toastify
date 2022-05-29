@@ -8,10 +8,10 @@
 ## ⚙️ Rodando o Projeto
 ```bash
 # Clone este repositório para a pasta anterior
-$ git clone https://github.com/brunoemferreira/rocketseat-ignite-dt-money.git
+$ git clone https://github.com/WGS-94/Using-React-Toastify.git
 # ou use a opção de download.
-# Acesse a pasta dtmoney
-$ cd dtmoney
+# Acesse a pasta Using-React-Toastify
+$ cd Using-React-Toastify
 # Instale as dependências
 $ yarn install
 ou
