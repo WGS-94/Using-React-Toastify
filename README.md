@@ -1,6 +1,7 @@
 # Aplicação simples mostrando como utilizar react-toastify 🔥
 
 <!-- Imagem do projeto rodando -->
+## Resultado
 <div align="center">
   <img src="https://user-images.githubusercontent.com/87288949/173266887-2848f5d3-3cc4-4c35-99da-5347994c2b42.PNG">
 </div>
