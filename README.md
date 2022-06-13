@@ -1,9 +1,9 @@
 # Aplicação simples mostrando como utilizar react-toastify 🔥
 
-<!-- Imagem do projeto rodando 
+<!-- Imagem do projeto rodando -->
 <div align="center">
-  <img src="./Assets/ignite.png">
-</div>-->
+  <img src="https://user-images.githubusercontent.com/87288949/173266887-2848f5d3-3cc4-4c35-99da-5347994c2b42.PNG">
+</div>
 
 ## ⚙️ Rodando o Projeto
 ```bash
