@@ -1,4 +1,4 @@
-# Aplicação simples mostrando como utilizar react-toastify 🔥
+# Aplicação simples - Como utilizar react-toastify 🔥
 
 <!-- Imagem do projeto rodando -->
 ## Resultado
